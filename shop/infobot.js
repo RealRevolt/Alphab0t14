@@ -26,9 +26,9 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api-alphabot.herokuapp.com
+⛎ Api : -
 ♈ YouTube : youtube.com/channel/UCH1CF2_cQ-bseuB46M04_kw
-♉ Github : zeeoneofc.github.io
+♉ Github : Mrfunixxxx.github.io
 ♊ Instagram : instagram.com/revolt_144
 ♋ Tiktok : tiktok.com/@rvt.exe
 ♌ Telegram : -
