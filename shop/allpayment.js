@@ -1,29 +1,27 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY REVOLT
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ 0194-01-064964-50-2
 2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ 8670531628
 	
 *💰 E-MONEY*
 
-1. GOPAY
-	ㅁ 0887 4350 47326
-2. OVO
-	ㅁ 0887 4350 47326
-3. DANA
-	ㅁ 0887 4350 47326
+1. OVO
+	ㅁ 0812 8731 5889
+2. DANA
+	ㅁ 0812 8731 5889
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama RIC* O***N SE*****N S*****T
 
 *📲 PULSA*
+
+1. ㅁ 0812 8731 5889
+2. ㅁ 0831 6444 5159
+
 
 Tidak tersedia
 	
